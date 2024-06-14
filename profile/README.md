@@ -8,5 +8,5 @@ We are always open for new members to join our team, so if you are interested in
 
 <details>
   <summary></summary>
-  <img src="https://raw.githubusercontent.com/spongedsc/.github/funny/profile/download%20(1).jpeg" alt="funny" title="funny">
+  <img src="milk.jpeg" alt="funny" title="funny">
 </details>
